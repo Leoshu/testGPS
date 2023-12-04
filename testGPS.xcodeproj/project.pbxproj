@@ -49,7 +49,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6D957DAD22D0347300C2EA28 = {
+		39066E4A2B1DC99500B88631 /* resource */ = {
 			isa = PBXGroup;
 			children = (
 				6D880E7F249D0795002D4499 /* Company.gpx */,
@@ -59,7 +59,15 @@
 				3948DDE92B1A25260033718D /* 遠東世紀.gpx */,
 				39553B972B1B5F2A007A4B17 /* 四四南村.gpx */,
 				39553B992B1B62D6007A4B17 /* 國父紀念館.gpx */,
+			);
+			path = resource;
+			sourceTree = "<group>";
+		};
+		6D957DAD22D0347300C2EA28 = {
+			isa = PBXGroup;
+			children = (
 				6D957DB822D0347300C2EA28 /* testGPS */,
+				39066E4A2B1DC99500B88631 /* resource */,
 				6D957DB722D0347300C2EA28 /* Products */,
 			);
 			sourceTree = "<group>";
