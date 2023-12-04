@@ -10,6 +10,8 @@
 		3948DDE62B1A12BE0033718D /* 228公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3948DDE52B1A12BE0033718D /* 228公園.gpx */; };
 		3948DDE82B1A13A80033718D /* 新莊運動場.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3948DDE72B1A13A80033718D /* 新莊運動場.gpx */; };
 		3948DDEA2B1A25260033718D /* 遠東世紀.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3948DDE92B1A25260033718D /* 遠東世紀.gpx */; };
+		39553B982B1B5F2A007A4B17 /* 四四南村.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 39553B972B1B5F2A007A4B17 /* 四四南村.gpx */; };
+		39553B9A2B1B62D6007A4B17 /* 國父紀念館.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 39553B992B1B62D6007A4B17 /* 國父紀念館.gpx */; };
 		39B3C25E2B1B29E4004C2E48 /* 大安森林.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 39B3C25D2B1B29E4004C2E48 /* 大安森林.gpx */; };
 		6D880E80249D0795002D4499 /* Company.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D880E7F249D0795002D4499 /* Company.gpx */; };
 		6D957DBA22D0347300C2EA28 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D957DB922D0347300C2EA28 /* AppDelegate.swift */; };
@@ -23,6 +25,8 @@
 		3948DDE52B1A12BE0033718D /* 228公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "228公園.gpx"; sourceTree = "<group>"; };
 		3948DDE72B1A13A80033718D /* 新莊運動場.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "新莊運動場.gpx"; sourceTree = "<group>"; };
 		3948DDE92B1A25260033718D /* 遠東世紀.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "遠東世紀.gpx"; sourceTree = "<group>"; };
+		39553B972B1B5F2A007A4B17 /* 四四南村.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "四四南村.gpx"; sourceTree = "<group>"; };
+		39553B992B1B62D6007A4B17 /* 國父紀念館.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "國父紀念館.gpx"; sourceTree = "<group>"; };
 		39B3C25D2B1B29E4004C2E48 /* 大安森林.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "大安森林.gpx"; sourceTree = "<group>"; };
 		6D880E7F249D0795002D4499 /* Company.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Company.gpx; sourceTree = "<group>"; };
 		6D957DB622D0347300C2EA28 /* testGPS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testGPS.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -53,6 +57,8 @@
 				3948DDE72B1A13A80033718D /* 新莊運動場.gpx */,
 				3948DDE52B1A12BE0033718D /* 228公園.gpx */,
 				3948DDE92B1A25260033718D /* 遠東世紀.gpx */,
+				39553B972B1B5F2A007A4B17 /* 四四南村.gpx */,
+				39553B992B1B62D6007A4B17 /* 國父紀念館.gpx */,
 				6D957DB822D0347300C2EA28 /* testGPS */,
 				6D957DB722D0347300C2EA28 /* Products */,
 			);
@@ -143,8 +149,10 @@
 				3948DDE82B1A13A80033718D /* 新莊運動場.gpx in Resources */,
 				3948DDEA2B1A25260033718D /* 遠東世紀.gpx in Resources */,
 				6D957DC122D0347400C2EA28 /* Assets.xcassets in Resources */,
+				39553B9A2B1B62D6007A4B17 /* 國父紀念館.gpx in Resources */,
 				6D957DBF22D0347300C2EA28 /* Main.storyboard in Resources */,
 				6D880E80249D0795002D4499 /* Company.gpx in Resources */,
+				39553B982B1B5F2A007A4B17 /* 四四南村.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
