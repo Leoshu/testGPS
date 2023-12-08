@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		393DA2952B2306B00034B845 /* 南港公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 393DA2942B2306B00034B845 /* 南港公園.gpx */; };
+		393DA2972B231FAA0034B845 /* 圓山自然景觀公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 393DA2962B231FAA0034B845 /* 圓山自然景觀公園.gpx */; };
 		3948DDE62B1A12BE0033718D /* 228公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3948DDE52B1A12BE0033718D /* 228公園.gpx */; };
 		3948DDE82B1A13A80033718D /* 新莊運動場.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3948DDE72B1A13A80033718D /* 新莊運動場.gpx */; };
 		3948DDEA2B1A25260033718D /* 遠東世紀.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3948DDE92B1A25260033718D /* 遠東世紀.gpx */; };
@@ -24,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		393DA2942B2306B00034B845 /* 南港公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "南港公園.gpx"; sourceTree = "<group>"; };
+		393DA2962B231FAA0034B845 /* 圓山自然景觀公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "圓山自然景觀公園.gpx"; sourceTree = "<group>"; };
 		3948DDE52B1A12BE0033718D /* 228公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "228公園.gpx"; sourceTree = "<group>"; };
 		3948DDE72B1A13A80033718D /* 新莊運動場.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "新莊運動場.gpx"; sourceTree = "<group>"; };
 		3948DDE92B1A25260033718D /* 遠東世紀.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "遠東世紀.gpx"; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				39553B972B1B5F2A007A4B17 /* 四四南村.gpx */,
 				39553B992B1B62D6007A4B17 /* 國父紀念館.gpx */,
 				393DA2942B2306B00034B845 /* 南港公園.gpx */,
+				393DA2962B231FAA0034B845 /* 圓山自然景觀公園.gpx */,
 			);
 			path = resource;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			files = (
 				6D957DC422D0347400C2EA28 /* LaunchScreen.storyboard in Resources */,
 				3948DDE62B1A12BE0033718D /* 228公園.gpx in Resources */,
+				393DA2972B231FAA0034B845 /* 圓山自然景觀公園.gpx in Resources */,
 				39B3C25E2B1B29E4004C2E48 /* 大安森林.gpx in Resources */,
 				393DA2952B2306B00034B845 /* 南港公園.gpx in Resources */,
 				3948DDE82B1A13A80033718D /* 新莊運動場.gpx in Resources */,
