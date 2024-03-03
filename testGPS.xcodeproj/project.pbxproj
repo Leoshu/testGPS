@@ -9,30 +9,64 @@
 /* Begin PBXBuildFile section */
 		393DA2952B2306B00034B845 /* 南港公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 393DA2942B2306B00034B845 /* 南港公園.gpx */; };
 		393DA2972B231FAA0034B845 /* 圓山自然景觀公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 393DA2962B231FAA0034B845 /* 圓山自然景觀公園.gpx */; };
-		3948DDE62B1A12BE0033718D /* 228公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3948DDE52B1A12BE0033718D /* 228公園.gpx */; };
+		3948DDE62B1A12BE0033718D /* 中和公園繞一圈.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3948DDE52B1A12BE0033718D /* 中和公園繞一圈.gpx */; };
 		3948DDE82B1A13A80033718D /* 新莊運動場.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3948DDE72B1A13A80033718D /* 新莊運動場.gpx */; };
 		3948DDEA2B1A25260033718D /* 遠東世紀.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3948DDE92B1A25260033718D /* 遠東世紀.gpx */; };
 		39553B982B1B5F2A007A4B17 /* 四四南村.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 39553B972B1B5F2A007A4B17 /* 四四南村.gpx */; };
 		39553B9A2B1B62D6007A4B17 /* 國父紀念館.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 39553B992B1B62D6007A4B17 /* 國父紀念館.gpx */; };
 		39B3C25E2B1B29E4004C2E48 /* 大安森林.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 39B3C25D2B1B29E4004C2E48 /* 大安森林.gpx */; };
-		6D880E80249D0795002D4499 /* Company.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D880E7F249D0795002D4499 /* Company.gpx */; };
+		6D06C3542B35759B00273214 /* 市府南山.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D06C3532B35759A00273214 /* 市府南山.gpx */; };
+		6D0F62CF2B2EC7EF0039A57E /* 板橋車站.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D0F62CE2B2EC7EF0039A57E /* 板橋車站.gpx */; };
+		6D1567522B3307E30044FDC5 /* 遠東四個道館.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D1567512B3307E30044FDC5 /* 遠東四個道館.gpx */; };
+		6D2876B72B475C6F003310B9 /* 出門抓寶gogo.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D2876B62B475C6F003310B9 /* 出門抓寶gogo.gpx */; };
+		6D2AD5992B33EE1E00569633 /* 福州山公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D2AD5982B33EE1E00569633 /* 福州山公園.gpx */; };
+		6D33AB632B2763F600280240 /* 阿里山郵局.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D33AB622B2763F600280240 /* 阿里山郵局.gpx */; };
+		6D5F57282B4E2A4B005CFFD3 /* 錦和運動公園走一圈.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D5F57272B4E2A4B005CFFD3 /* 錦和運動公園走一圈.gpx */; };
+		6D6405592B75F29A00D6591F /* 北投公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D6405582B75F29A00D6591F /* 北投公園.gpx */; };
+		6D7281252B7128290040D246 /* 蚊香抓寶.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D7281242B7128290040D246 /* 蚊香抓寶.gpx */; };
+		6D8D1E402B35DDEC005A8D2E /* 河堤.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D8D1E3F2B35DDEC005A8D2E /* 河堤.gpx */; };
+		6D8D1E422B35E456005A8D2E /* 巧俐樓下路線.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D8D1E412B35E456005A8D2E /* 巧俐樓下路線.gpx */; };
 		6D957DBA22D0347300C2EA28 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D957DB922D0347300C2EA28 /* AppDelegate.swift */; };
 		6D957DBC22D0347300C2EA28 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D957DBB22D0347300C2EA28 /* ViewController.swift */; };
 		6D957DBF22D0347300C2EA28 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D957DBD22D0347300C2EA28 /* Main.storyboard */; };
 		6D957DC122D0347400C2EA28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D957DC022D0347400C2EA28 /* Assets.xcassets */; };
 		6D957DC422D0347400C2EA28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D957DC222D0347400C2EA28 /* LaunchScreen.storyboard */; };
+		6D9694392B3D032900683041 /* 435遛遛一大圈.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6D9694382B3D032900683041 /* 435遛遛一大圈.gpx */; };
+		6DAA15AF2B595AF000EC8D75 /* 自定義.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6DAA15AE2B595AF000EC8D75 /* 自定義.gpx */; };
+		6DB638C82B3C6CD2004A89B2 /* 中和運動場走一圈.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6DB638C72B3C6CD2004A89B2 /* 中和運動場走一圈.gpx */; };
+		6DC54DD72B348962007C3C26 /* 上班族的美食饗宴.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6DC54DD62B348962007C3C26 /* 上班族的美食饗宴.gpx */; };
+		6DC6E0E62B371C8400067975 /* 下班101抓寶去.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6DC6E0E52B371C8400067975 /* 下班101抓寶去.gpx */; };
+		6DDAFB072B381F2400606CFA /* 松菸康和.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6DDAFB062B381F2400606CFA /* 松菸康和.gpx */; };
+		6DDE686D2B451E52008D7DFC /* 中和國民運動中心.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6DDE686C2B451E52008D7DFC /* 中和國民運動中心.gpx */; };
+		6DE81A172B464CFE00FC4644 /* 河堤路線.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6DE81A162B464CFE00FC4644 /* 河堤路線.gpx */; };
+		6DE81A192B469AF800FC4644 /* 信義路.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6DE81A182B469AF800FC4644 /* 信義路.gpx */; };
+		6DE81A1B2B46D4A000FC4644 /* 午休散步.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6DE81A1A2B46D4A000FC4644 /* 午休散步.gpx */; };
+		6DEC64A92B4D91620088B6AC /* 石雕公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6DEC64A82B4D91620088B6AC /* 石雕公園.gpx */; };
+		6DF98F062B31EDDE00588D3A /* 仁愛公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6DF98F052B31EDDE00588D3A /* 仁愛公園.gpx */; };
+		CC5FD7AC2B92A2470074603B /* 中正紀念堂.gpx in Resources */ = {isa = PBXBuildFile; fileRef = CC5FD7AB2B92A2470074603B /* 中正紀念堂.gpx */; };
+		CC64EA0F2B94B4F80085D220 /* Company.gpx in Resources */ = {isa = PBXBuildFile; fileRef = CC64EA0E2B94B4F70085D220 /* Company.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		393DA2942B2306B00034B845 /* 南港公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "南港公園.gpx"; sourceTree = "<group>"; };
 		393DA2962B231FAA0034B845 /* 圓山自然景觀公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "圓山自然景觀公園.gpx"; sourceTree = "<group>"; };
-		3948DDE52B1A12BE0033718D /* 228公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "228公園.gpx"; sourceTree = "<group>"; };
+		3948DDE52B1A12BE0033718D /* 中和公園繞一圈.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "中和公園繞一圈.gpx"; sourceTree = "<group>"; };
 		3948DDE72B1A13A80033718D /* 新莊運動場.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "新莊運動場.gpx"; sourceTree = "<group>"; };
 		3948DDE92B1A25260033718D /* 遠東世紀.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "遠東世紀.gpx"; sourceTree = "<group>"; };
 		39553B972B1B5F2A007A4B17 /* 四四南村.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "四四南村.gpx"; sourceTree = "<group>"; };
 		39553B992B1B62D6007A4B17 /* 國父紀念館.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "國父紀念館.gpx"; sourceTree = "<group>"; };
 		39B3C25D2B1B29E4004C2E48 /* 大安森林.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "大安森林.gpx"; sourceTree = "<group>"; };
-		6D880E7F249D0795002D4499 /* Company.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Company.gpx; sourceTree = "<group>"; };
+		6D06C3532B35759A00273214 /* 市府南山.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "市府南山.gpx"; sourceTree = "<group>"; };
+		6D0F62CE2B2EC7EF0039A57E /* 板橋車站.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "板橋車站.gpx"; sourceTree = "<group>"; };
+		6D1567512B3307E30044FDC5 /* 遠東四個道館.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "遠東四個道館.gpx"; sourceTree = "<group>"; };
+		6D2876B62B475C6F003310B9 /* 出門抓寶gogo.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "出門抓寶gogo.gpx"; sourceTree = "<group>"; };
+		6D2AD5982B33EE1E00569633 /* 福州山公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "福州山公園.gpx"; sourceTree = "<group>"; };
+		6D33AB622B2763F600280240 /* 阿里山郵局.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "阿里山郵局.gpx"; sourceTree = "<group>"; };
+		6D5F57272B4E2A4B005CFFD3 /* 錦和運動公園走一圈.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "錦和運動公園走一圈.gpx"; sourceTree = "<group>"; };
+		6D6405582B75F29A00D6591F /* 北投公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "北投公園.gpx"; sourceTree = "<group>"; };
+		6D7281242B7128290040D246 /* 蚊香抓寶.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "蚊香抓寶.gpx"; sourceTree = "<group>"; };
+		6D8D1E3F2B35DDEC005A8D2E /* 河堤.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "河堤.gpx"; sourceTree = "<group>"; };
+		6D8D1E412B35E456005A8D2E /* 巧俐樓下路線.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "巧俐樓下路線.gpx"; sourceTree = "<group>"; };
 		6D957DB622D0347300C2EA28 /* testGPS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testGPS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D957DB922D0347300C2EA28 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6D957DBB22D0347300C2EA28 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +74,20 @@
 		6D957DC022D0347400C2EA28 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6D957DC322D0347400C2EA28 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6D957DC522D0347400C2EA28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6D9694382B3D032900683041 /* 435遛遛一大圈.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "435遛遛一大圈.gpx"; sourceTree = "<group>"; };
+		6DAA15AE2B595AF000EC8D75 /* 自定義.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "自定義.gpx"; sourceTree = "<group>"; };
+		6DB638C72B3C6CD2004A89B2 /* 中和運動場走一圈.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "中和運動場走一圈.gpx"; sourceTree = "<group>"; };
+		6DC54DD62B348962007C3C26 /* 上班族的美食饗宴.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "上班族的美食饗宴.gpx"; sourceTree = "<group>"; };
+		6DC6E0E52B371C8400067975 /* 下班101抓寶去.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "下班101抓寶去.gpx"; sourceTree = "<group>"; };
+		6DDAFB062B381F2400606CFA /* 松菸康和.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "松菸康和.gpx"; sourceTree = "<group>"; };
+		6DDE686C2B451E52008D7DFC /* 中和國民運動中心.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "中和國民運動中心.gpx"; sourceTree = "<group>"; };
+		6DE81A162B464CFE00FC4644 /* 河堤路線.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "河堤路線.gpx"; sourceTree = "<group>"; };
+		6DE81A182B469AF800FC4644 /* 信義路.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "信義路.gpx"; sourceTree = "<group>"; };
+		6DE81A1A2B46D4A000FC4644 /* 午休散步.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "午休散步.gpx"; sourceTree = "<group>"; };
+		6DEC64A82B4D91620088B6AC /* 石雕公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "石雕公園.gpx"; sourceTree = "<group>"; };
+		6DF98F052B31EDDE00588D3A /* 仁愛公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "仁愛公園.gpx"; sourceTree = "<group>"; };
+		CC5FD7AB2B92A2470074603B /* 中正紀念堂.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "中正紀念堂.gpx"; sourceTree = "<group>"; };
+		CC64EA0E2B94B4F70085D220 /* Company.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Company.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,17 +104,57 @@
 		39066E4A2B1DC99500B88631 /* resource */ = {
 			isa = PBXGroup;
 			children = (
-				6D880E7F249D0795002D4499 /* Company.gpx */,
+				6D8D1E442B35E486005A8D2E /* 區域 */,
+				6D8D1E432B35E46B005A8D2E /* 路線 */,
+				6DAA15AE2B595AF000EC8D75 /* 自定義.gpx */,
+			);
+			path = resource;
+			sourceTree = "<group>";
+		};
+		6D8D1E432B35E46B005A8D2E /* 路線 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6405582B75F29A00D6591F /* 北投公園.gpx */,
+				3948DDE52B1A12BE0033718D /* 中和公園繞一圈.gpx */,
+				6DE81A182B469AF800FC4644 /* 信義路.gpx */,
+				6DE81A1A2B46D4A000FC4644 /* 午休散步.gpx */,
+				6D9694382B3D032900683041 /* 435遛遛一大圈.gpx */,
+				6DB638C72B3C6CD2004A89B2 /* 中和運動場走一圈.gpx */,
+				6DC54DD62B348962007C3C26 /* 上班族的美食饗宴.gpx */,
+				6D5F57272B4E2A4B005CFFD3 /* 錦和運動公園走一圈.gpx */,
+				6D06C3532B35759A00273214 /* 市府南山.gpx */,
+				6D8D1E412B35E456005A8D2E /* 巧俐樓下路線.gpx */,
+				6DC6E0E52B371C8400067975 /* 下班101抓寶去.gpx */,
+				6DDAFB062B381F2400606CFA /* 松菸康和.gpx */,
+				6DDE686C2B451E52008D7DFC /* 中和國民運動中心.gpx */,
+				6DE81A162B464CFE00FC4644 /* 河堤路線.gpx */,
+				6D2876B62B475C6F003310B9 /* 出門抓寶gogo.gpx */,
+			);
+			path = "路線";
+			sourceTree = "<group>";
+		};
+		6D8D1E442B35E486005A8D2E /* 區域 */ = {
+			isa = PBXGroup;
+			children = (
+				CC64EA0E2B94B4F70085D220 /* Company.gpx */,
+				6D8D1E3F2B35DDEC005A8D2E /* 河堤.gpx */,
+				6D33AB622B2763F600280240 /* 阿里山郵局.gpx */,
 				39B3C25D2B1B29E4004C2E48 /* 大安森林.gpx */,
 				3948DDE72B1A13A80033718D /* 新莊運動場.gpx */,
-				3948DDE52B1A12BE0033718D /* 228公園.gpx */,
+				6DF98F052B31EDDE00588D3A /* 仁愛公園.gpx */,
 				3948DDE92B1A25260033718D /* 遠東世紀.gpx */,
 				39553B972B1B5F2A007A4B17 /* 四四南村.gpx */,
 				39553B992B1B62D6007A4B17 /* 國父紀念館.gpx */,
 				393DA2942B2306B00034B845 /* 南港公園.gpx */,
+				6D0F62CE2B2EC7EF0039A57E /* 板橋車站.gpx */,
 				393DA2962B231FAA0034B845 /* 圓山自然景觀公園.gpx */,
+				6D2AD5982B33EE1E00569633 /* 福州山公園.gpx */,
+				6D1567512B3307E30044FDC5 /* 遠東四個道館.gpx */,
+				6DEC64A82B4D91620088B6AC /* 石雕公園.gpx */,
+				6D7281242B7128290040D246 /* 蚊香抓寶.gpx */,
+				CC5FD7AB2B92A2470074603B /* 中正紀念堂.gpx */,
 			);
-			path = resource;
+			path = "區域";
 			sourceTree = "<group>";
 		};
 		6D957DAD22D0347300C2EA28 = {
@@ -157,18 +245,42 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D06C3542B35759B00273214 /* 市府南山.gpx in Resources */,
 				6D957DC422D0347400C2EA28 /* LaunchScreen.storyboard in Resources */,
-				3948DDE62B1A12BE0033718D /* 228公園.gpx in Resources */,
+				3948DDE62B1A12BE0033718D /* 中和公園繞一圈.gpx in Resources */,
+				CC64EA0F2B94B4F80085D220 /* Company.gpx in Resources */,
 				393DA2972B231FAA0034B845 /* 圓山自然景觀公園.gpx in Resources */,
 				39B3C25E2B1B29E4004C2E48 /* 大安森林.gpx in Resources */,
+				6DEC64A92B4D91620088B6AC /* 石雕公園.gpx in Resources */,
+				6DB638C82B3C6CD2004A89B2 /* 中和運動場走一圈.gpx in Resources */,
+				6D33AB632B2763F600280240 /* 阿里山郵局.gpx in Resources */,
+				6DDE686D2B451E52008D7DFC /* 中和國民運動中心.gpx in Resources */,
+				6D8D1E422B35E456005A8D2E /* 巧俐樓下路線.gpx in Resources */,
 				393DA2952B2306B00034B845 /* 南港公園.gpx in Resources */,
+				6DE81A172B464CFE00FC4644 /* 河堤路線.gpx in Resources */,
+				6D6405592B75F29A00D6591F /* 北投公園.gpx in Resources */,
 				3948DDE82B1A13A80033718D /* 新莊運動場.gpx in Resources */,
 				3948DDEA2B1A25260033718D /* 遠東世紀.gpx in Resources */,
+				6DE81A1B2B46D4A000FC4644 /* 午休散步.gpx in Resources */,
 				6D957DC122D0347400C2EA28 /* Assets.xcassets in Resources */,
+				6DC6E0E62B371C8400067975 /* 下班101抓寶去.gpx in Resources */,
 				39553B9A2B1B62D6007A4B17 /* 國父紀念館.gpx in Resources */,
+				6DDAFB072B381F2400606CFA /* 松菸康和.gpx in Resources */,
+				6DC54DD72B348962007C3C26 /* 上班族的美食饗宴.gpx in Resources */,
+				6DF98F062B31EDDE00588D3A /* 仁愛公園.gpx in Resources */,
+				6D2AD5992B33EE1E00569633 /* 福州山公園.gpx in Resources */,
 				6D957DBF22D0347300C2EA28 /* Main.storyboard in Resources */,
-				6D880E80249D0795002D4499 /* Company.gpx in Resources */,
+				6D9694392B3D032900683041 /* 435遛遛一大圈.gpx in Resources */,
+				6DE81A192B469AF800FC4644 /* 信義路.gpx in Resources */,
+				6D8D1E402B35DDEC005A8D2E /* 河堤.gpx in Resources */,
+				6D1567522B3307E30044FDC5 /* 遠東四個道館.gpx in Resources */,
+				6DAA15AF2B595AF000EC8D75 /* 自定義.gpx in Resources */,
+				6D7281252B7128290040D246 /* 蚊香抓寶.gpx in Resources */,
+				6D2876B72B475C6F003310B9 /* 出門抓寶gogo.gpx in Resources */,
+				CC5FD7AC2B92A2470074603B /* 中正紀念堂.gpx in Resources */,
+				6D5F57282B4E2A4B005CFFD3 /* 錦和運動公園走一圈.gpx in Resources */,
 				39553B982B1B5F2A007A4B17 /* 四四南村.gpx in Resources */,
+				6D0F62CF2B2EC7EF0039A57E /* 板橋車站.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
