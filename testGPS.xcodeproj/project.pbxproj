@@ -45,6 +45,7 @@
 		6DF98F062B31EDDE00588D3A /* 仁愛公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 6DF98F052B31EDDE00588D3A /* 仁愛公園.gpx */; };
 		CC5FD7AC2B92A2470074603B /* 中正紀念堂.gpx in Resources */ = {isa = PBXBuildFile; fileRef = CC5FD7AB2B92A2470074603B /* 中正紀念堂.gpx */; };
 		CC64EA0F2B94B4F80085D220 /* Company.gpx in Resources */ = {isa = PBXBuildFile; fileRef = CC64EA0E2B94B4F70085D220 /* Company.gpx */; };
+		CC8649D22BA7FEEB00FA33F6 /* 大安森林公園路線.gpx in Resources */ = {isa = PBXBuildFile; fileRef = CC8649D12BA7FEEB00FA33F6 /* 大安森林公園路線.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -88,6 +89,7 @@
 		6DF98F052B31EDDE00588D3A /* 仁愛公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "仁愛公園.gpx"; sourceTree = "<group>"; };
 		CC5FD7AB2B92A2470074603B /* 中正紀念堂.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "中正紀念堂.gpx"; sourceTree = "<group>"; };
 		CC64EA0E2B94B4F70085D220 /* Company.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Company.gpx; sourceTree = "<group>"; };
+		CC8649D12BA7FEEB00FA33F6 /* 大安森林公園路線.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "大安森林公園路線.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 		6D8D1E432B35E46B005A8D2E /* 路線 */ = {
 			isa = PBXGroup;
 			children = (
+				CC8649D12BA7FEEB00FA33F6 /* 大安森林公園路線.gpx */,
 				6D6405582B75F29A00D6591F /* 北投公園.gpx */,
 				3948DDE52B1A12BE0033718D /* 中和公園繞一圈.gpx */,
 				6DE81A182B469AF800FC4644 /* 信義路.gpx */,
@@ -247,6 +250,7 @@
 			files = (
 				6D06C3542B35759B00273214 /* 市府南山.gpx in Resources */,
 				6D957DC422D0347400C2EA28 /* LaunchScreen.storyboard in Resources */,
+				CC8649D22BA7FEEB00FA33F6 /* 大安森林公園路線.gpx in Resources */,
 				3948DDE62B1A12BE0033718D /* 中和公園繞一圈.gpx in Resources */,
 				CC64EA0F2B94B4F80085D220 /* Company.gpx in Resources */,
 				393DA2972B231FAA0034B845 /* 圓山自然景觀公園.gpx in Resources */,
